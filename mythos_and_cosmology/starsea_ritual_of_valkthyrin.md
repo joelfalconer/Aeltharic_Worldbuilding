@@ -1,7 +1,3 @@
-Add "The Star-Sea Ritual of Valkthyrin" to a new file in the Aeltharic_Worldbuilding repo.
-
----
-
 ## **The Star-Sea Ritual of Valkthyrin**
 
 ### **Introduction**
